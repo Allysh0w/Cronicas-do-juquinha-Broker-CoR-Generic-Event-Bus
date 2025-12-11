@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 577474e1bd1e680428b7f0c9a501fcf7, type: 3}
+  m_Name: Guerreiro Conversation
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueSO
+  lines:
+  - speaker: {fileID: 11400000, guid: 75a49176b7cca764f8a9189a5e0db592, type: 2}
+    text: "\xC9 voce o Jabuti que vai ajudar o vilarejo? "
+  - speaker: {fileID: 11400000, guid: b976c8b7396b4c64eaf05640c9dd73e1, type: 2}
+    text: "Eu n\xE3o sou um Jabuti, sou a tartaruga Juquinha."
+  - speaker: {fileID: 11400000, guid: 75a49176b7cca764f8a9189a5e0db592, type: 2}
+    text: "Me desculpe. Eu sou o guerreiro mais forte desse vilarejo e n\xE3o consegui
+      derrotar a lebre que amea\xE7a a nossa vila. Eu conto com voce para esse trabalho."
+  - speaker: {fileID: 11400000, guid: b976c8b7396b4c64eaf05640c9dd73e1, type: 2}
+    text: 'O que eu posso fazer para derrotar ela? '
+  - speaker: {fileID: 11400000, guid: 75a49176b7cca764f8a9189a5e0db592, type: 2}
+    text: "Voce precisa ser paciente e upar at\xE9 o level 20. Quando voce chegar
+      ao level 20 voce vai poder upar sua ultimate skill...  Voce deve derrotar os
+      clones da lebre que est\xE3o localizados ao norte daqui e com isso voce conseguir\xE1
+      atingir esse objetivo."
+  - speaker: {fileID: 11400000, guid: 75a49176b7cca764f8a9189a5e0db592, type: 2}
+    text: "Com essa skill lend\xE1ria voce vai poder derrotar a Lebre e salvar o
+      vilarejo. Eu conto com voce."
+  - speaker: {fileID: 11400000, guid: 75a49176b7cca764f8a9189a5e0db592, type: 2}
+    text: Quando voce chegar ao level 20, pegue o portal na vila e voce vai ser teleportado
+      para o covil da lebre. Boa Sorte!

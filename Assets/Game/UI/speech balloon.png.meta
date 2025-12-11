@@ -1,0 +1,2158 @@
+fileFormatVersion: 2
+guid: dd4aa65f8c73a984980c81a4a879eb71
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9067339708817860939
+    second: speech balloon_0
+  - first:
+      213: -4487387483382604667
+    second: speech balloon_1
+  - first:
+      213: -1265878177629812868
+    second: speech balloon_2
+  - first:
+      213: -6826839841545135947
+    second: speech balloon_3
+  - first:
+      213: -4131442468095935855
+    second: speech balloon_4
+  - first:
+      213: -2717369242576763233
+    second: speech balloon_5
+  - first:
+      213: -6484233311600813147
+    second: speech balloon_6
+  - first:
+      213: -2468806331684817474
+    second: speech balloon_7
+  - first:
+      213: 4359223353268123616
+    second: speech balloon_8
+  - first:
+      213: 8343710791786494831
+    second: speech balloon_9
+  - first:
+      213: 7997816622581181980
+    second: speech balloon_10
+  - first:
+      213: 649059917453735127
+    second: speech balloon_11
+  - first:
+      213: -1670403695865903928
+    second: speech balloon_12
+  - first:
+      213: -668773136900402948
+    second: speech balloon_13
+  - first:
+      213: -8158670014552053103
+    second: speech balloon_14
+  - first:
+      213: 6545698356299621297
+    second: speech balloon_15
+  - first:
+      213: -6926330827899409636
+    second: speech balloon_16
+  - first:
+      213: 7390497075285384768
+    second: speech balloon_17
+  - first:
+      213: 804041799648556889
+    second: speech balloon_18
+  - first:
+      213: -4011992883121384361
+    second: speech balloon_19
+  - first:
+      213: 7285223254438068898
+    second: speech balloon_20
+  - first:
+      213: 2832393545508370979
+    second: speech balloon_21
+  - first:
+      213: -3467783826807968272
+    second: speech balloon_22
+  - first:
+      213: 5460702635012924904
+    second: speech balloon_23
+  - first:
+      213: 8372368026557292183
+    second: speech balloon_24
+  - first:
+      213: -6510800862402290382
+    second: speech balloon_25
+  - first:
+      213: 539101915145303151
+    second: speech balloon_26
+  - first:
+      213: -136150138067228512
+    second: speech balloon_27
+  - first:
+      213: 8162650296324676201
+    second: speech balloon_28
+  - first:
+      213: 53708275397324359
+    second: speech balloon_29
+  - first:
+      213: -8692822492414679550
+    second: speech balloon_30
+  - first:
+      213: -945622206230486594
+    second: speech balloon_31
+  - first:
+      213: -6374522122900293015
+    second: speech balloon_32
+  - first:
+      213: 3677759997723373369
+    second: speech balloon_33
+  - first:
+      213: 8115145482529259357
+    second: speech balloon_34
+  - first:
+      213: 5679619810397663316
+    second: speech balloon_35
+  - first:
+      213: 6588583947905447586
+    second: speech balloon_36
+  - first:
+      213: 4653889767311274599
+    second: speech balloon_37
+  - first:
+      213: 3856998931733278259
+    second: speech balloon_38
+  - first:
+      213: -6236092570407109910
+    second: speech balloon_39
+  - first:
+      213: -2729161718135012334
+    second: speech balloon_40
+  - first:
+      213: 2317464943252824889
+    second: speech balloon_41
+  - first:
+      213: -4165301796165557268
+    second: speech balloon_42
+  - first:
+      213: 5168731363640867431
+    second: speech balloon_43
+  - first:
+      213: 9034125370842905434
+    second: speech balloon_44
+  - first:
+      213: -9080508750272821338
+    second: speech balloon_45
+  - first:
+      213: 4479667209750004097
+    second: speech balloon_46
+  - first:
+      213: 1358998363303404982
+    second: speech balloon_47
+  - first:
+      213: -8794074095951443090
+    second: speech balloon_48
+  - first:
+      213: 5439792264724177880
+    second: speech balloon_49
+  - first:
+      213: -1427531706756109924
+    second: speech balloon_50
+  - first:
+      213: 6510947697005004961
+    second: speech balloon_51
+  - first:
+      213: 8826430519721179475
+    second: speech balloon_52
+  - first:
+      213: 8965245763503325196
+    second: speech balloon_53
+  - first:
+      213: -3259032414267173233
+    second: speech balloon_54
+  - first:
+      213: 923083769065212435
+    second: speech balloon_55
+  - first:
+      213: 365754365788104446
+    second: speech balloon_56
+  - first:
+      213: 4433275879985079436
+    second: speech balloon_57
+  - first:
+      213: 2148531231008783047
+    second: speech balloon_58
+  - first:
+      213: 6205258580255825109
+    second: speech balloon_59
+  - first:
+      213: 3098587457816454025
+    second: speech balloon_60
+  - first:
+      213: 6840200871100088711
+    second: speech balloon_61
+  - first:
+      213: -2811045789846042091
+    second: speech balloon_62
+  - first:
+      213: 8494549673678857600
+    second: speech balloon_63
+  - first:
+      213: -6261503303527639725
+    second: speech balloon_64
+  - first:
+      213: -4977467031275862695
+    second: speech balloon_65
+  - first:
+      213: 7154745817910582180
+    second: speech balloon_66
+  - first:
+      213: 8656649229050024543
+    second: speech balloon_67
+  - first:
+      213: -7011361362388727252
+    second: speech balloon_68
+  - first:
+      213: -4872903382077135256
+    second: speech balloon_69
+  - first:
+      213: -120595529598974305
+    second: speech balloon_70
+  - first:
+      213: 4463704045168057770
+    second: speech balloon_71
+  - first:
+      213: 5501703356976596051
+    second: speech balloon_72
+  - first:
+      213: 8987942487283940752
+    second: speech balloon_73
+  - first:
+      213: 4670240137143829823
+    second: speech balloon_74
+  - first:
+      213: 6268870842305114921
+    second: speech balloon_75
+  - first:
+      213: 5861525340962264322
+    second: speech balloon_76
+  - first:
+      213: -8802607946382543145
+    second: speech balloon_77
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: speech balloon_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 191
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49e1e1ac69a5dd70800000000000000
+      internalID: 9067339708817860939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 190
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c127bebd899b1c0800000000000000
+      internalID: -4487387483382604667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 198
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77c47d1182be6ee0800000000000000
+      internalID: -1265878177629812868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_3
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 187
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b8d73295513241a0800000000000000
+      internalID: -6826839841545135947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 161
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19abd2fe6fa2aa6c0800000000000000
+      internalID: -4131442468095935855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 161
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96c3a43217f94ad0800000000000000
+      internalID: -2717369242576763233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 161
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab574578206306a0800000000000000
+      internalID: -6484233311600813147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 161
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5f0bcb8b90dbdd0800000000000000
+      internalID: -2468806331684817474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 161
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7322c2b821f7c30800000000000000
+      internalID: 4359223353268123616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_9
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 160
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bf60d12c0dac370800000000000000
+      internalID: 8343710791786494831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 168
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e6aaf08d3fdfe60800000000000000
+      internalID: 7997816622581181980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 168
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d436c95e8ce10900800000000000000
+      internalID: 649059917453735127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 157
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4c96450b881d8e0800000000000000
+      internalID: -1670403695865903928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_13
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 157
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf05ab3106a08b6f0800000000000000
+      internalID: -668773136900402948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_14
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 158
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a6ef629d496ce80800000000000000
+      internalID: -8158670014552053103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_15
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 157
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3e81679fdf6da50800000000000000
+      internalID: 6545698356299621297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 132
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1be73e2fcab0ef90800000000000000
+      internalID: -6926330827899409636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 132
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ed2f5fee1509660800000000000000
+      internalID: 7390497075285384768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 132
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9573e9cb1c7882b00800000000000000
+      internalID: 804041799648556889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 132
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7549720bab98258c0800000000000000
+      internalID: -4011992883121384361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_20
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 132
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2423e73ff4a1560800000000000000
+      internalID: 7285223254438068898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_21
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 131
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ab2284ceeae4720800000000000000
+      internalID: 2832393545508370979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 146
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd244d8bf4ffdfc0800000000000000
+      internalID: -3467783826807968272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 146
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e52cff4d1058cb40800000000000000
+      internalID: 5460702635012924904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_24
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e19c78c50a03470800000000000000
+      internalID: 8372368026557292183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_25
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d54318c1df4a5a0800000000000000
+      internalID: -6510800862402290382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_26
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64f7f5e5564b7700800000000000000
+      internalID: 539101915145303151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_27
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8e168bb2c4c1ef0800000000000000
+      internalID: -136150138067228512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 103
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a5b2a623f874170800000000000000
+      internalID: 8162650296324676201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_29
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 103
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e6e84546fceb000800000000000000
+      internalID: 53708275397324359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 103
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206e81ceff3ec5780800000000000000
+      internalID: -8692822492414679550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_31
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 103
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb129e11d9970e2f0800000000000000
+      internalID: -945622206230486594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_32
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 103
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ab8a327e52987a0800000000000000
+      internalID: -6374522122900293015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_33
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 102
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f61797b370a0330800000000000000
+      internalID: 3677759997723373369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 124
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fb5ca02d9ce9070800000000000000
+      internalID: 8115145482529259357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 124
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450360a202012de40800000000000000
+      internalID: 5679619810397663316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_36
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 97
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6bebb513a5f6b50800000000000000
+      internalID: 6588583947905447586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_37
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 97
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762f9640610f59040800000000000000
+      internalID: 4653889767311274599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_38
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 97
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ee509d710d68530800000000000000
+      internalID: 3856998931733278259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_39
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 97
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea7e62f8d2f479a0800000000000000
+      internalID: -6236092570407109910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 74
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214c7f780e1102ad0800000000000000
+      internalID: -2729161718135012334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_41
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 74
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9336102661a492020800000000000000
+      internalID: 2317464943252824889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 74
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce36149c510e136c0800000000000000
+      internalID: -4165301796165557268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_43
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 74
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76afb354ac50bb740800000000000000
+      internalID: 5168731363640867431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_44
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 74
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b7f61f829af5d70800000000000000
+      internalID: 9034125370842905434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_45
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 73
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a78928f66d8bf180800000000000000
+      internalID: -9080508750272821338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_46
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 102
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1814d1dc799fa2e30800000000000000
+      internalID: 4479667209750004097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 102
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b56907afc12cd210800000000000000
+      internalID: 1358998363303404982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_48
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 79
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b8956e33c25f580800000000000000
+      internalID: -8794074095951443090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_49
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 58
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d36dc65e360e7b40800000000000000
+      internalID: 5439792264724177880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_50
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 79
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99e131e973603ce0800000000000000
+      internalID: -1427531706756109924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_51
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 58
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a881271f688b5a50800000000000000
+      internalID: 6510947697005004961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_52
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 68
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359b5a21bc7cd7a70800000000000000
+      internalID: 8826430519721179475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_53
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 67
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0001b1a583fa6c70800000000000000
+      internalID: 8965245763503325196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_54
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 67
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f861f1c494795c2d0800000000000000
+      internalID: -3259032414267173233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_55
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 67
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a8f091cc37fcc00800000000000000
+      internalID: 923083769065212435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 45
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef629d768ab631500800000000000000
+      internalID: 365754365788104446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_57
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 45
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8461d1ace8268d30800000000000000
+      internalID: 4433275879985079436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 45
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca7c1d65cd11dd10800000000000000
+      internalID: 2148531231008783047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_59
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 45
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcd7974dc18d1650800000000000000
+      internalID: 6205258580255825109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_60
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 45
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98361a830e4600b20800000000000000
+      internalID: 3098587457816454025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_61
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 44
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7810d3a83764dee50800000000000000
+      internalID: 6840200871100088711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_62
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 35
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a8ed86fb82df8d0800000000000000
+      internalID: -2811045789846042091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_63
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 35
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085e9821ce3b2e570800000000000000
+      internalID: 8494549673678857600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_64
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 37
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355dc499bebaa19a0800000000000000
+      internalID: -6261503303527639725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_65
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 37
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95585975b1c7ceab0800000000000000
+      internalID: -4977467031275862695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_66
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 37
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab95c6f963ca4360800000000000000
+      internalID: 7154745817910582180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_67
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 37
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f529fa2eb98922870800000000000000
+      internalID: 8656649229050024543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_68
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 15
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2acbea1df3a2be90800000000000000
+      internalID: -7011361362388727252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_69
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 15
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8662e761138ff5cb0800000000000000
+      internalID: -4872903382077135256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_70
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f96c0c8310f835ef0800000000000000
+      internalID: -120595529598974305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_71
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 15
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad57baed2342fd30800000000000000
+      internalID: 4463704045168057770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_72
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 15
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3540a2ccd0af95c40800000000000000
+      internalID: 5501703356976596051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_73
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 14
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d333072169bbc70800000000000000
+      internalID: 8987942487283940752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_74
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 7
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35ca3629a600d040800000000000000
+      internalID: 4670240137143829823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_75
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 7
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923766231d08ff650800000000000000
+      internalID: 6268870842305114921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_76
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 7
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205910eed32585150800000000000000
+      internalID: 5861525340962264322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: speech balloon_77
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 7
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d676d206bad6d580800000000000000
+      internalID: -8802607946382543145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      speech balloon_0: 9067339708817860939
+      speech balloon_1: -4487387483382604667
+      speech balloon_10: 7997816622581181980
+      speech balloon_11: 649059917453735127
+      speech balloon_12: -1670403695865903928
+      speech balloon_13: -668773136900402948
+      speech balloon_14: -8158670014552053103
+      speech balloon_15: 6545698356299621297
+      speech balloon_16: -6926330827899409636
+      speech balloon_17: 7390497075285384768
+      speech balloon_18: 804041799648556889
+      speech balloon_19: -4011992883121384361
+      speech balloon_2: -1265878177629812868
+      speech balloon_20: 7285223254438068898
+      speech balloon_21: 2832393545508370979
+      speech balloon_22: -3467783826807968272
+      speech balloon_23: 5460702635012924904
+      speech balloon_24: 8372368026557292183
+      speech balloon_25: -6510800862402290382
+      speech balloon_26: 539101915145303151
+      speech balloon_27: -136150138067228512
+      speech balloon_28: 8162650296324676201
+      speech balloon_29: 53708275397324359
+      speech balloon_3: -6826839841545135947
+      speech balloon_30: -8692822492414679550
+      speech balloon_31: -945622206230486594
+      speech balloon_32: -6374522122900293015
+      speech balloon_33: 3677759997723373369
+      speech balloon_34: 8115145482529259357
+      speech balloon_35: 5679619810397663316
+      speech balloon_36: 6588583947905447586
+      speech balloon_37: 4653889767311274599
+      speech balloon_38: 3856998931733278259
+      speech balloon_39: -6236092570407109910
+      speech balloon_4: -4131442468095935855
+      speech balloon_40: -2729161718135012334
+      speech balloon_41: 2317464943252824889
+      speech balloon_42: -4165301796165557268
+      speech balloon_43: 5168731363640867431
+      speech balloon_44: 9034125370842905434
+      speech balloon_45: -9080508750272821338
+      speech balloon_46: 4479667209750004097
+      speech balloon_47: 1358998363303404982
+      speech balloon_48: -8794074095951443090
+      speech balloon_49: 5439792264724177880
+      speech balloon_5: -2717369242576763233
+      speech balloon_50: -1427531706756109924
+      speech balloon_51: 6510947697005004961
+      speech balloon_52: 8826430519721179475
+      speech balloon_53: 8965245763503325196
+      speech balloon_54: -3259032414267173233
+      speech balloon_55: 923083769065212435
+      speech balloon_56: 365754365788104446
+      speech balloon_57: 4433275879985079436
+      speech balloon_58: 2148531231008783047
+      speech balloon_59: 6205258580255825109
+      speech balloon_6: -6484233311600813147
+      speech balloon_60: 3098587457816454025
+      speech balloon_61: 6840200871100088711
+      speech balloon_62: -2811045789846042091
+      speech balloon_63: 8494549673678857600
+      speech balloon_64: -6261503303527639725
+      speech balloon_65: -4977467031275862695
+      speech balloon_66: 7154745817910582180
+      speech balloon_67: 8656649229050024543
+      speech balloon_68: -7011361362388727252
+      speech balloon_69: -4872903382077135256
+      speech balloon_7: -2468806331684817474
+      speech balloon_70: -120595529598974305
+      speech balloon_71: 4463704045168057770
+      speech balloon_72: 5501703356976596051
+      speech balloon_73: 8987942487283940752
+      speech balloon_74: 4670240137143829823
+      speech balloon_75: 6268870842305114921
+      speech balloon_76: 5861525340962264322
+      speech balloon_77: -8802607946382543145
+      speech balloon_8: 4359223353268123616
+      speech balloon_9: 8343710791786494831
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
